@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+
+  <assemblyIdentity name="AddInRGOMaquinas" version="1.0.0.0"></assemblyIdentity>
+
+  <clrClass clsid="{6a37d444-c13c-4a15-8825-8ef1ab4afab3}" progid="AddInRGOMaquinas.StandardAddInServer" threadingModel="Both" name="AddInRGOMaquinas.StandardAddInServer" runtimeVersion=""></clrClass>
+
+  <file name="AddInRGOMaquinas.dll" hashalg="SHA1"></file>
+
+</assembly>

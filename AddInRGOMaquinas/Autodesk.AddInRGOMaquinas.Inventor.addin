@@ -1,0 +1,14 @@
+<Addin Type="Standard">
+  <!--Created for Autodesk Inventor Version 26.0-->
+  <ClassId>{6a37d444-c13c-4a15-8825-8ef1ab4afab3}</ClassId>
+  <ClientId>{6a37d444-c13c-4a15-8825-8ef1ab4afab3}</ClientId>
+  <DisplayName>AddInRGOMaquinas</DisplayName>
+  <Description>Add-In criado por Gustavo Cassel</Description>
+  <Assembly>AddInRGOMaquinas.dll</Assembly>
+  <LoadOnStartUp>1</LoadOnStartUp>
+  <UserUnloadable>1</UserUnloadable>
+  <Hidden>0</Hidden>
+  <SupportedSoftwareVersionGreaterThan>25..</SupportedSoftwareVersionGreaterThan>
+  <DataVersion>1</DataVersion>
+  <UserInterfaceVersion>1</UserInterfaceVersion>
+</Addin>
